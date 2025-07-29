@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies I Work With
 
-### AI / ML / LLMs
+<!-- ### AI / ML / LLMs
 - 🧠 Transformers, RAG, Model Composition Protocol (MCP)
 - 🔍 OpenAI APIs, LangChain, Vector DBs (Qdrant, Weaviate, Pinecone)
 - 🛠️ Fine-tuning, Prompt Engineering, Sentiment Analysis
@@ -19,33 +19,33 @@
 
 ### Data & Infra
 - 🛢️ PostgreSQL, Redis, Firebase
-- 🐳 Docker, GitHub Actions, Nginx
+- 🐳 Docker, GitHub Actions, Nginx -->
 
 ---
 
 ## 🚀 Projects & Initiatives
 
-### 🔄 `@sg20/mcp-oauth-framework`
+<!-- ### 🔄 `@sg20/mcp-oauth-framework`
 > A scoped NPM package for seamless OAuth integration in MCP-based AI tools.  
 > 📦 `npx @swayamgupta/mcp-oauth-framework`
 
 - Auth + Terminal Session binding
 - Long-lived token storage
-- Public API-ready
-
+- Public API-ready -->
+<!-- 
 ### 🤖 Autonomous Investment Agent *(WIP)*
 > AI agent to manage portfolios with NLP + Technical + Fundamental analysis.
 
 - Uses earnings transcripts, stock charts, and market news
-- Decision-making via a hybrid of ML models + rule-based logic
+- Decision-making via a hybrid of ML models + rule-based logic -->
 
-### 🧠 AI Tools for OTA Industry
+<!-- ### 🧠 AI Tools for OTA Industry
 > Internal tools to boost efficiency in online travel booking.
 
 - LLM + search augmentation for itinerary generation
 - Realtime AI-powered replies on Instagram business DMs
 
----
+--- -->
 
 ## 📈 Currently Focusing On
 - Building and scaling MCP-based LLM systems  
