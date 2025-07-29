@@ -1,18 +1,66 @@
+# 👋 Hi, I'm Swayam Gupta
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swayam.gupta.520) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swayamg20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamg20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+🎯 AI Engineer | 🧠 LLM Systems | ⚙️ Full-Stack Developer  
+💡 Passionate about building intelligent systems and solving real-world problems with code.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=swayamg20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Technologies I Work With
+
+### AI / ML / LLMs
+- 🧠 Transformers, RAG, Model Composition Protocol (MCP)
+- 🔍 OpenAI APIs, LangChain, Vector DBs (Qdrant, Weaviate, Pinecone)
+- 🛠️ Fine-tuning, Prompt Engineering, Sentiment Analysis
+
+### Web & Backend
+- ⚡ TypeScript, Node.js, Express
+- 🌐 React, TailwindCSS, Next.js
+- 🔐 OAuth, JWT, Webhooks, REST APIs
+
+### Data & Infra
+- 🛢️ PostgreSQL, Redis, Firebase
+- 🐳 Docker, GitHub Actions, Nginx
+
+---
+
+## 🚀 Projects & Initiatives
+
+### 🔄 `@sg20/mcp-oauth-framework`
+> A scoped NPM package for seamless OAuth integration in MCP-based AI tools.  
+> 📦 `npx @swayamgupta/mcp-oauth-framework`
+
+- Auth + Terminal Session binding
+- Long-lived token storage
+- Public API-ready
+
+### 🤖 Autonomous Investment Agent *(WIP)*
+> AI agent to manage portfolios with NLP + Technical + Fundamental analysis.
+
+- Uses earnings transcripts, stock charts, and market news
+- Decision-making via a hybrid of ML models + rule-based logic
+
+### 🧠 AI Tools for OTA Industry
+> Internal tools to boost efficiency in online travel booking.
+
+- LLM + search augmentation for itinerary generation
+- Realtime AI-powered replies on Instagram business DMs
+
+---
+
+## 📈 Currently Focusing On
+- Building and scaling MCP-based LLM systems  
+- Architecting production-grade AI backends  
+- Making open-source tools for devs working with LLMs
+
+---
+
+## 📬 Let’s Connect
+
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/swayamgupta20)
+- 💻 [GitHub](https://github.com/swayamg20)
+- ✍️ [Blog (Coming Soon)](https://swayamgupta.dev)
+
+---
+
+> _"Solve for value, not for validation."_  
+> — Swayam Gupta
