@@ -1,26 +1,99 @@
-<h1 align="center">Hi 👋, I'm Swayam</h1>
-<h3 align="center">A passionate Full Stack Engineer</h3>
+# Hi, I'm Swayam 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayamg20" alt="swayamg20" /></a> </p>
+📍 **Location** | 🚀 **Full Stack Engineer** | 💻 **Passionate Problem Solver**
 
-<p align="left"> <a href="https://twitter.com/swayamg20" target="blank"><img src="https://img.shields.io/twitter/follow/swayamg20?logo=twitter&style=for-the-badge" alt="swayamg20" /></a> </p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Blogs posts
+> Building scalable web applications and exploring the intersection of backend architecture and frontend experiences. Always learning, always shipping.
+
+## Current Focus
+
+- **Full Stack Development** - Crafting end-to-end web applications with modern tech stacks
+- **Cloud Architecture** - Designing scalable solutions on AWS infrastructure
+- **API Design** - Building robust RESTful services and microservices
+- **Database Optimization** - Working with PostgreSQL, MongoDB, and Redis for performance
+- **DevOps Practices** - Containerization and deployment automation
+
+## Tech Stack & Tools
+
+**Languages & Frameworks**
+- **Backend**: Python (Django), Node.js (Express), Ruby, Elixir
+- **Frontend**: React, TypeScript, JavaScript (ES6+)
+- **Databases**: PostgreSQL, MongoDB, MySQL, MariaDB, SQLite, Redis
+- **Cloud & DevOps**: AWS, Docker, Nginx
+- **Data**: Pandas for data analysis and processing
+
+**Development Philosophy**
+- Clean, maintainable code
+- Test-driven development
+- Agile methodologies
+- Continuous learning and improvement
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/swayamg20)
+
+## What I'm Working On
+
+- **Exploring Microservices** - Building distributed systems with Node.js and Python
+- **Learning Cloud Native** - Diving deeper into AWS services and containerization
+- **Open Source Contributions** - Contributing to projects that solve real-world problems
+- **Technical Writing** - Sharing knowledge and experiences through blog posts
+
+## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swayamg20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swayamg20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swayamgupta20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayamgupta20" height="30" width="40" /></a>
-<a href="https://medium.com/@swayamgupta20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swayamgupta20" height="30" width="40" /></a>
+*More posts coming soon on Medium and personal blog!*
+
+## Connect With Me
+
+[![Twitter](https://img.shields.io/badge/-@swayamg20-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/swayamg20)
+[![LinkedIn](https://img.shields.io/badge/-Swayam_Gupta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20)
+[![Medium](https://img.shields.io/badge/-@swayamgupta20-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@swayamgupta20)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/swayamg20)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swayamg20&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamg20&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=default" alt="GitHub Streak" />
+</div>
+
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swayamg20&theme=default&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamg20&show_icons=true&locale=en&layout=compact" alt="swayamg20" /></p>
+### Philosophy
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamg20&show_icons=true&locale=en" alt="swayamg20" /></p>
+> "Code is poetry written in logic" - I believe in writing clean, efficient code that solves real problems and creates meaningful user experiences.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&" alt="swayamg20" /></p>
+<details>
+<summary>Random Facts</summary>
+
+- Always experimenting with new technologies
+- Believe in the power of open source
+- Love discussing system architecture over coffee
+- Enjoy mentoring fellow developers
+- Constantly optimizing workflows and processes
+
+</details>
