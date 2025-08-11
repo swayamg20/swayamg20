@@ -74,8 +74,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=swayamg20&color=blueviolet&style=flat"/>
-  
-  **Thanks for visiting!** ⭐️ Feel free to star repositories you find interesting!
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=swayamg20&color=blueviolet&style=flat"/>  
 </div>
