@@ -33,17 +33,17 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamg20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamg20&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### 🏆 GitHub Trophies
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=swayamg20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
