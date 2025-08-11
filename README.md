@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamg20&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=tokyonight&hide_border=true"/>
 </div>
 </div>
