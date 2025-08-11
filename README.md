@@ -25,23 +25,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=tokyonight&hide_border=true"/>
 </div>
 </div>
-
+<!-- 
 ### 🏆 GitHub Trophies
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=swayamg20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
-
 ### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamg20&theme=tokyo-night&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&hide_border=true"/>
 </div>
-
 ### 🎯 What I'm Up To
 - 🔭 Currently working on **microservices architecture** with Node.js and Docker
 - 🌱 Learning **Kubernetes** and **DevOps** practices
 - 👯 Looking to collaborate on **open source projects** and **innovative web apps**
 - 💬 Ask me about **React, Node.js, Python, or web development**
 - ⚡ Fun fact: I love solving algorithmic challenges and exploring new tech trends
+-->
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20)
