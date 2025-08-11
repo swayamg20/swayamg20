@@ -32,14 +32,16 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### 📊 GitHub Analytics
+<div>
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamg20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamg20&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="left">
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=tokyonight&hide_border=true"/>
+</div>
 </div>
 
 ### 🏆 GitHub Trophies
