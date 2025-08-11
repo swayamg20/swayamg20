@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Swayam Gupta
 
-**Full-Stack Developer** passionate about building scalable web applications and exploring new technologies.
+**Full Stack AI Engineer** AI Enthusiast, Working on voiceAI.
 
 ### 🚀 Current Projects
 - 🔧 **[Project Name 1]** - Building a modern e-commerce platform with Next.js and TypeScript
