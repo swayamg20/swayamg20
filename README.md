@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Swayam Gupta
 
-**Full Stack AI Engineer** AI Enthusiast, Working on voiceAI.
+**FSoftware Engineer II at ixigo** AI Enthusiast, Working on voiceAI.
 
 ### 🚀 Current Project
 - 🧩 **[mcpframework]** - A modular, scalable framework for microservice orchestration, written in Node.js with Docker support. Focused on rapid development, seamless integration, and production-ready deployment for cloud-native apps.
