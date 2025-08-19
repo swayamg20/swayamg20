@@ -8,7 +8,6 @@
 ### 💻 Tech Stack & Tools
 
 ![LangChain](https://img.shields.io/badge/-LangChain-1a73e8?style=flat)
-![Langfuse](https://img.shields.io/badge/-Langfuse-009688?style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
