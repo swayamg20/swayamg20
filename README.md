@@ -2,18 +2,6 @@
 
 **Software Engineer II at ixigo** AI Enthusiast, Working on voiceAI.
 
-### 🚀 Current Project
-- 🧩 **[mcpframework]** - A modular, scalable framework for microservice orchestration, written in Node.js with Docker support. Focused on rapid development, seamless integration, and production-ready deployment for cloud-native apps.
-
-### 💻 Tech Stack & Tools
-
-![LangChain](https://img.shields.io/badge/-LangChain-1a73e8?style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
 ### 📊 GitHub Analytics
 <div>
 <div align="left">
