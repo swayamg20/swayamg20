@@ -3,6 +3,7 @@
 **Software Engineer II at ixigo** AI Enthusiast, Working on voiceAI.
 
 ### 📊 GitHub Analytics
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <div>
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamg20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
