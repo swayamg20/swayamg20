@@ -1,8 +1,8 @@
 # Swayam Gupta
 
-**Software Engineer II @ ixigo** · IIT Kanpur '24 · Building Voice AI
+**Software Engineer II @ ixigo** · IIT Kanpur '24
 
-I'm a Full Stack Engineer focused on building AI products. Currently deep into conversational voice agents — real-time STT-LLM-TTS pipelines, WebRTC streaming, and multi-agent orchestration.
+Building AI products at the intersection of real-time systems, decision science, and conversational interfaces.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://swayamg20.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20)
@@ -11,45 +11,54 @@ I'm a Full Stack Engineer focused on building AI products. Currently deep into c
 
 ---
 
-### Currently
+### Currently Exploring
 
-- Building production Voice AI systems with sub-100ms interruption detection
-- Designing WebRTC-based streaming architecture for seamless voice UX
-- Working with STT, TTS, VAD, and LLM orchestration at scale
+- **Decision Intelligence** — Training SLMs to extract decision states from conversational signals (decision stage, risk tolerance, hesitation markers)
+- **Real-time Voice Systems** — VAD-based interruption handling, low-latency STT-LLM-TTS pipelines
+- **Backend & Infra** — WebRTC streaming, tool sandboxing, vector search, Redis pub/sub patterns
+- **Research** — Behavioral signal extraction, preference modeling through trade-offs, active learning loops
+
+---
+
+### What I'm Building
+
+**[VAD-based Conversational AI](https://github.com/swayamg20/vad-based-conv-ai)** — Real-time voice assistant with:
+- STT → VAD → LLM → TTS pipeline with interruption handling
+- Tool calling, persistent memory, canvas API for rich UI
+- Working on: LLM re-routing based on complexity, live web search, sandbox code execution
+- Research direction: Decision Intelligence Model — fine-tuning 3-7B SLMs to infer decision psychology from conversations
 
 ---
 
 ### Experience
 
 **Software Engineer II - AI Products** @ ixigo *(Aug '24 - Present)*  
-Voice AI systems, real-time streaming, multi-agent orchestration
+Voice AI, real-time streaming, multi-agent orchestration
 
 **Founding Engineer** @ overlayy AI *(Apr '24 - Aug '24)*  
-Built entire tech stack from scratch — LLM pipelines, AWS DevOps, microservices
+Built from scratch — LLM pipelines, AWS DevOps, microservices, analytics
 
 ---
 
 ### Tech
 
-**Languages** · JavaScript/TypeScript · Python · Elixir · C++  
-**Backend** · Node.js · FastAPI · Elixir/Phoenix  
-**Data** · PostgreSQL · MongoDB · Neo4j · Redis  
-**Real-time** · WebRTC · WebSockets · SSE · Voice AI Pipeline  
-**Infrastructure** · AWS · Docker
+**Languages** · TypeScript · Python · Elixir · C++  
+**Backend** · Node.js · FastAPI · Phoenix · Redis · PostgreSQL · MongoDB  
+**Real-time** · WebRTC · WebSockets · SSE · VAD · STT/TTS pipelines  
+**ML/AI** · LLM orchestration · Vector search · Fine-tuning · Active learning  
+**Infrastructure** · AWS · Docker · CI/CD
 
 ---
 
 ### Projects
 
-**[macOS Intelligence MCP](https://github.com/swayamg20)** — Comprehensive macOS automation with 5 MCP servers for screen intelligence, system control, and Apple Shortcuts  
+**[macOS Intelligence MCP](https://github.com/swayamg20)** — 5 MCP servers for screen intelligence, system control, Apple Shortcuts automation
 
-**Reel2Trip** *(ixigo Hackweek '25)* — AI-powered travel planner that converts Instagram Reels into personalized itineraries  
+**Reel2Trip** *(ixigo Hackweek '25)* — Instagram Reels → AI-generated travel itineraries
 
-**Voice AI Platform** — Production real-time voice assistant with WebRTC, VAD, and multi-modal canvas interactions  
+**[Techkriti'23](https://techkriti.org)** — Tech architecture for IIT Kanpur's flagship fest · 350K+ monthly visits
 
-**[Techkriti'23](https://techkriti.org)** — Led tech architecture for IIT Kanpur's flagship fest · 350K+ monthly visits  
-
-**ISRO X-Ray Burst Automation** — Automated solar X-ray burst identification · Silver Medal at Inter IIT
+**ISRO X-Ray Burst Automation** 🥈 — Solar X-ray burst identification · Silver Medal at Inter IIT
 
 ---
 
