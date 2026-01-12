@@ -1,50 +1,76 @@
-## Hi there! 👋 I'm Swayam Gupta
+# Swayam Gupta
 
-**Software Engineer II at ixigo** AI Enthusiast, Working on voiceAI.
+**Software Engineer II @ ixigo** · IIT Kanpur '24 · Building Voice AI
 
-### 📊 GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swayamg20)](https://git.io/streak-stats)
-<div>
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamg20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamg20&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayamg20&theme=tokyonight&hide_border=true"/>
-</div>
-</div>
-<!-- 
-### 🏆 GitHub Trophies
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=swayamg20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
-</div>
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamg20&theme=tokyo-night&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&hide_border=true"/>
-</div>
-### 🎯 What I'm Up To
-- 🔭 Currently working on **microservices architecture** with Node.js and Docker
-- 🌱 Learning **Kubernetes** and **DevOps** practices
-- 👯 Looking to collaborate on **open source projects** and **innovative web apps**
-- 💬 Ask me about **React, Node.js, Python, or web development**
-- ⚡ Fun fact: I love solving algorithmic challenges and exploring new tech trends
--->
+I'm a Full Stack Engineer focused on building AI products. Currently deep into conversational voice agents — real-time STT-LLM-TTS pipelines, WebRTC streaming, and multi-agent orchestration.
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20)
-[![X](https://img.shields.io/badge/--000000?style=flat&logo=X&logoColor=white)](https://X.com/swayamg20)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@swayamgupta20)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gupta.swayam123@gmail.com)
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with TypeScript](https://medium.com/@swayamgupta20)
-- [Microservices Architecture: A Complete Guide](https://medium.com/@swayamgupta20)
-- [Modern State Management in React](https://medium.com/@swayamgupta20)
-<!-- BLOG-POST-LIST:END -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://swayamg20.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@swayamgupta20)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gupta.swayam123@gmail.com)
 
 ---
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=swayamg20&color=blueviolet&style=flat"/>  
-</div>
+### Currently
+
+- Building production Voice AI systems with sub-100ms interruption detection
+- Designing WebRTC-based streaming architecture for seamless voice UX
+- Working with STT, TTS, VAD, and LLM orchestration at scale
+
+---
+
+### Experience
+
+**Software Engineer II - AI Products** @ ixigo *(Aug '24 - Present)*  
+Voice AI systems, real-time streaming, multi-agent orchestration
+
+**Founding Engineer** @ overlayy AI *(Apr '24 - Aug '24)*  
+Built entire tech stack from scratch — LLM pipelines, AWS DevOps, microservices
+
+---
+
+### Tech
+
+**Languages** · JavaScript/TypeScript · Python · Elixir · C++  
+**Backend** · Node.js · FastAPI · Elixir/Phoenix  
+**Data** · PostgreSQL · MongoDB · Neo4j · Redis  
+**Real-time** · WebRTC · WebSockets · SSE · Voice AI Pipeline  
+**Infrastructure** · AWS · Docker
+
+---
+
+### Projects
+
+**[macOS Intelligence MCP](https://github.com/swayamg20)** — Comprehensive macOS automation with 5 MCP servers for screen intelligence, system control, and Apple Shortcuts  
+
+**Reel2Trip** *(ixigo Hackweek '25)* — AI-powered travel planner that converts Instagram Reels into personalized itineraries  
+
+**Voice AI Platform** — Production real-time voice assistant with WebRTC, VAD, and multi-modal canvas interactions  
+
+**[Techkriti'23](https://techkriti.org)** — Led tech architecture for IIT Kanpur's flagship fest · 350K+ monthly visits  
+
+**ISRO X-Ray Burst Automation** — Automated solar X-ray burst identification · Silver Medal at Inter IIT
+
+---
+
+### Writing
+
+- [Building a Multi Target JavaScript SDK: Build Tooling](https://swayamgupta20.medium.com/building-a-multi-target-javascript-sdk-build-tooling-839ace1f491d)
+- [Unlock Lightning-Fast Lottie Loads with IndexedDB Persistence](https://swayamgupta20.medium.com/unlock-lightning-fast-lottie-loads-with-indexeddb-persistence-a124562e324b)
+
+---
+
+### GitHub
+
+<p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swayamg20&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayamg20&theme=github_dark" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamg20&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamg20&theme=github_dark" width="100%" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=swayamg20&color=808080&style=flat&label=visitors" />
