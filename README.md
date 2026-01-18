@@ -58,7 +58,7 @@ Built from scratch — LLM pipelines, AWS DevOps, microservices, analytics
 
 **[Techkriti'23](https://techkriti.org)** — Tech architecture for IIT Kanpur's flagship fest · 350K+ monthly visits
 
-**ISRO X-Ray Burst Automation** 🥈 — Solar X-ray burst identification · Silver Medal at Inter IIT
+**ISRO X-Ray Burst Automation** — Solar X-ray burst identification · Silver Medal at Inter IIT
 
 ---
 
