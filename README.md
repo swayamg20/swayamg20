@@ -2,7 +2,7 @@
 
 **Software Engineer II @ ixigo** · IIT Kanpur '24
 
-Building AI products at the intersection of real-time systems, decision science, and conversational interfaces.
+Building real-time AI systems and agent infrastructure — voice pipelines, multimodal interfaces, and reliable collaboration across agents and machines.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://swayamg20.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta20)
@@ -11,54 +11,54 @@ Building AI products at the intersection of real-time systems, decision science,
 
 ---
 
-### Currently Exploring
+### Current Focus
 
-- **Decision Intelligence** — Training SLMs to extract decision states from conversational signals (decision stage, risk tolerance, hesitation markers)
-- **Real-time Voice Systems** — VAD-based interruption handling, low-latency STT-LLM-TTS pipelines
-- **Backend & Infra** — WebRTC streaming, tool sandboxing, vector search, Redis pub/sub patterns
-- **Research** — Behavioral signal extraction, preference modeling through trade-offs, active learning loops
+- **[AgentRelay](https://github.com/swayamg20/AgentRelay)** — Building a durable collaboration network for independently owned AI agents across machines, repositories, and runtimes
+- **Open Source** — Contributing reliability and observability improvements to real-time AI infrastructure across LiveKit and Pipecat
+- **Voice & Decision Systems** — Exploring natural turn-taking, interruption handling, and decision-state inference from conversational signals
 
 ---
 
-### What I'm Building
+### Open Source Contributions
 
-**[VAD-based Conversational AI](https://github.com/swayamg20/vad-based-conv-ai)** — Real-time voice assistant with:
-- STT → VAD → LLM → TTS pipeline with interruption handling
-- Tool calling, persistent memory, canvas API for rich UI
-- Working on: LLM re-routing based on complexity, live web search, sandbox code execution
-- Research direction: Decision Intelligence Model — fine-tuning 3-7B SLMs to infer decision psychology from conversations
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [LiveKit Agents #6653](https://github.com/livekit/agents/pull/6653) | Added streaming AWS Transcribe usage metrics with flush, shutdown, and event-propagation coverage | Merged |
+| [LiveKit Python SDK #771](https://github.com/livekit/python-sdks/pull/771) | Fixed repeated local-track subscription events during reconnects | Merged |
+| [Pipecat #5185](https://github.com/pipecat-ai/pipecat/pull/5185) | Added safe recovery for marker-only turn completions without polluting LLM context | Open |
+
+---
+
+### Selected Work
+
+**[AgentRelay](https://github.com/swayamg20/AgentRelay)** · [Website](https://swayamg20.github.io/AgentRelay/) · [npm](https://www.npmjs.com/package/agentrelay-mcp) — A durable collaboration network for independently owned AI agents. The current release provides an authenticated relay, CLI, and MCP tools; I am working toward an owner-controlled Node runtime for secure cross-device execution.
+
+**[Murmur](https://github.com/swayamg20/conv-ai-visual)** — A voice-first AI assistant with a live hand-drawn canvas, WebRTC streaming, smart turn detection, interruption handling, and synchronized visuals.
+
+**[macOS Intelligence MCP](https://github.com/swayamg20/mac-os-automation-mcp)** — Five macOS-native MCP servers for screen intelligence, system automation, power and usage telemetry, and Apple Shortcuts.
+
+**Reel2Trip** *(ixigo Hackweek '25)* — Instagram Reels to AI-generated travel itineraries
+
+**[Techkriti'23](https://techkriti.org)** — Led the tech architecture for IIT Kanpur's flagship fest, serving 350K+ monthly visits
+
+**ISRO X-Ray Burst Automation** — Solar X-ray burst identification; Silver Medal at Inter IIT
 
 ---
 
 ### Experience
 
-**Software Engineer II - AI Products** @ ixigo *(Aug '24 - Present)*  
-Voice AI, real-time streaming, multi-agent orchestration
+**Software Engineer II - AI Products** @ ixigo *(Aug '24 - Present)* — Voice AI, real-time streaming, and multi-agent orchestration
 
-**Founding Engineer** @ overlayy AI *(Apr '24 - Aug '24)*  
-Built from scratch — LLM pipelines, AWS DevOps, microservices, analytics
+**Founding Engineer** @ overlayy AI *(Apr '24 - Aug '24)* — Built LLM pipelines, AWS infrastructure, microservices, and analytics from scratch
 
 ---
 
 ### Tech
 
-**Languages** · TypeScript · Python · Elixir · C++  
-**Backend** · Node.js · FastAPI · Phoenix · Redis · PostgreSQL · MongoDB  
-**Real-time** · WebRTC · WebSockets · SSE · VAD · STT/TTS pipelines  
-**ML/AI** · LLM orchestration · Vector search · Fine-tuning · Active learning  
-**Infrastructure** · AWS · Docker · CI/CD
-
----
-
-### Projects
-
-**[macOS Intelligence MCP](https://github.com/swayamg20)** — 5 MCP servers for screen intelligence, system control, Apple Shortcuts automation
-
-**Reel2Trip** *(ixigo Hackweek '25)* — Instagram Reels → AI-generated travel itineraries
-
-**[Techkriti'23](https://techkriti.org)** — Tech architecture for IIT Kanpur's flagship fest · 350K+ monthly visits
-
-**ISRO X-Ray Burst Automation** — Solar X-ray burst identification · Silver Medal at Inter IIT
+- **Languages** · TypeScript · Python · Elixir · C++
+- **AI & Real-time** · LLM/agent orchestration · MCP · A2A · WebRTC · WebSockets · SSE · STT/TTS
+- **Backend** · Node.js · FastAPI · Phoenix · Hono · PostgreSQL · Redis
+- **Infrastructure** · AWS · Docker · CI/CD
 
 ---
 
@@ -71,15 +71,4 @@ Built from scratch — LLM pipelines, AWS DevOps, microservices, analytics
 
 ### GitHub
 
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swayamg20&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayamg20&theme=github_dark" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamg20&theme=github-compact&hide_border=true&area=true" width="100%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamg20&theme=github_dark" width="100%" />
-
----
-
-<img src="https://komarev.com/ghpvc/?username=swayamg20&color=808080&style=flat&label=visitors" />
