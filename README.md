@@ -21,11 +21,9 @@ Building real-time AI systems and agent infrastructure — voice pipelines, mult
 
 ### Open Source Contributions
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [LiveKit Agents #6653](https://github.com/livekit/agents/pull/6653) | Added streaming AWS Transcribe usage metrics with flush, shutdown, and event-propagation coverage | Merged |
-| [LiveKit Python SDK #771](https://github.com/livekit/python-sdks/pull/771) | Fixed repeated local-track subscription events during reconnects | Merged |
-| [Pipecat #5185](https://github.com/pipecat-ai/pipecat/pull/5185) | Added safe recovery for marker-only turn completions without polluting LLM context | Open |
+- **[LiveKit Agents](https://github.com/livekit/agents)** — Real-time voice-agent reliability and AWS speech observability
+- **[LiveKit Python SDKs](https://github.com/livekit/python-sdks)** — RTC reconnect and local-track lifecycle reliability
+- **[Pipecat](https://github.com/pipecat-ai/pipecat)** — Conversational turn-completion reliability
 
 ---
 
@@ -69,6 +67,10 @@ Building real-time AI systems and agent infrastructure — voice pipelines, mult
 
 ---
 
-### GitHub
+### GitHub Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamg20&theme=github_dark" width="100%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swayamg20&theme=github-dark-blue&hide_border=true" width="60%" alt="Swayam's GitHub contribution streak" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swayamg20&theme=github-compact&hide_border=true&area=true" width="100%" alt="Swayam's GitHub contribution graph" />
