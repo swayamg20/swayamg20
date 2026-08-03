@@ -9,9 +9,10 @@ At ixigo, I work on production conversational AI. I built the agent harness and 
 - **[macOS Intelligence MCP](https://github.com/swayamg20/mac-os-automation-mcp)** — Five native MCP servers for screen intelligence, system automation, telemetry, and Apple Shortcuts.
 
 ## Writing
-
+- [The Gateway Is the Kernel, Skills Are the Applications. My Deep Dive into OpenClaw](https://swayamgupta20.medium.com/i-built-a-voice-enabled-travel-agent-in-4-hours-on-openclaw-1334d377e5a2)
 - [Building a Multi Target JavaScript SDK: Build Tooling](https://swayamgupta20.medium.com/building-a-multi-target-javascript-sdk-build-tooling-839ace1f491d)
 - [Unlock Lightning-Fast Lottie Loads with IndexedDB Persistence](https://swayamgupta20.medium.com/unlock-lightning-fast-lottie-loads-with-indexeddb-persistence-a124562e324b)
+
 
 ## GitHub activity
 
