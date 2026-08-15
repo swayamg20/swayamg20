@@ -1,5 +1,3 @@
-# Swayam Gupta
-
 At ixigo, I work on our in app conversational AI Agent (Tara). I built the agent harness and in-house agent infra for a system handling tens of thousands of calls a day, including its orchestration, observability, and evaluation loop.
 
 ## GitHub activity
