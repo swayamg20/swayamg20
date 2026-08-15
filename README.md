@@ -5,6 +5,14 @@ At ixigo, I work on our in app conversational AI Agent (Tara). I built the agent
     <img src="https://streak-stats.demolab.com?user=swayamg20&theme=github-dark-blue&hide_border=true&disable_animations=true&short_numbers=false" width="600" alt="GitHub activity: total contributions, current streak, and longest streak" />
   </a>
 </p>
-![](https://komarev.com/ghpvc/?username=swayamg20)
+<img src="https://komarev.com/ghpvc/?username=swayamg20" alt="Profile views">
 
 [Website](https://swayamg20.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/swayamgupta20) · [Email](mailto:gupta.swayam123@gmail.com)
+
+
+  <p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamg20&theme=github_dark"
+    width="800"
+  />
+</p>
